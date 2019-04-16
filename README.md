@@ -25,6 +25,9 @@ competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome,
 
 | Name  | Participation Fees |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| [Alexiafoundation](https://www.alexiafoundation.org/grants)  |  $50 for Professionals, free for students  |
+| [chromaticawards](https://chromaticawards.com/)  | Professional: 20$ / Single Entry
+Amateur: 15$ / Single Entry FINAL DEADLINE - ENTRY FEES
+Professional: 25$ / Single Entry
+Amateur: 20$ / Single Entry   |
 
