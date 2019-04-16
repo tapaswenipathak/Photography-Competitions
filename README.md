@@ -1,19 +1,7 @@
 Photography-Competitions
 -------------------------
 
-competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome, portraits, street)
-
-- [IAFORphotoawards](https://iaforphotoaward.org/)
-
-- [monovisions](https://monovisionsawards.com/)
-- [portraitawards](http://portraitphotoawards.net/)
-- [portraitawards](https://portraitawards.childphotocompetition.com/)
-- [pixcontests](https://pixcontests.com/chromatic)
-- [shoottheframe](https://shoottheframe.com/)
-- [sinwp](http://sinwp.com/flora/)
-- [streetphotoawards](https://www.streetphotoawards.art/)
-- [thezebraaards](https://thezebraawards.com/)
-- [worldphoto](http://www.worldphoto.org/about-the-sony-world-photography-awards/) - separate categories
+Competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome, portraits, street)
 
 | Name  | Entry Fee |
 | ------------- | ------------- |
@@ -27,7 +15,16 @@ competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome,
 | |  FINAL DEADLINE : Amateur : Single entry - 20 USD, Series - 25 USD, Professional : Single entry - 25 USD, Series - 30 USD |
 | [internationalfineartphoto](http://internationalfineartphoto.org/) | Early-bird rate €20 in the Captured Human Experience, Staged Human Experience, Built & Natural Environments, and Constructed Reality categories , € 15 (series of 5-8 images ) in the Student categories. |
 | | Regular rate : € 25 in the Captured Human Experience, Staged Human Experience, Built & Natural Environments, and Constructed Reality categories, € 20 (series of 5-8 images ) in the Student categories. |
-| | |
+| [IAFORphotoawards](https://iaforphotoaward.org/) | |
 | [macro](https://macro.competition.photography/en/) | Free |
 | [monoawards](https://monoawards.com/) | EARLY DEADLINE: Professional: 20 USD/Single Entry, Amateur: 15 USD/Single Entry |
 | | FINAL DEADLINE: Professional: 25 USD/Single Entry, Amateur: 20 USD/Single Entry |
+| [monovisions](https://monovisionsawards.com/) | SERIES 30$ / SINGLE 25$ |
+| [portraitawards](http://portraitphotoawards.net/) | No fee for members |
+| [portraitawards](https://portraitawards.childphotocompetition.com/) | Single File Submission - 10 EUR, Package of 3 files - 20 EUR, Package of 5 files - 30 EUR |
+| [pixcontests](https://pixcontests.com/chromatic) | Professional: $20 / Single Entry, Amateur: $15 / Single Entry |
+| [shoottheframe](https://shoottheframe.com/) | 1 image – $10, 3 images – $15, 7 images – $19. |
+|[sinwp](http://sinwp.com/flora/) |  First 3 images - free of charge. Each additional images £2 (GBP) per image |
+| [streetphotoawards](https://www.streetphotoawards.art/) |  |
+| [thezebraaards](https://thezebraawards.com/) | Stage 1 fee, $1 per image. Stage 2 $20 per image, total fees capped at $100. |
+| [worldphoto](http://www.worldphoto.org/about-the-sony-world-photography-awards/) - separate categories | Professional Category: free, Student Category: free, Youth Category: First 3 photos free, Open Category: First 3 photos free  |
