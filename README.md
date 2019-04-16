@@ -23,7 +23,7 @@ competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome,
 - [thezebraaards](https://thezebraawards.com/)
 - [worldphoto](http://www.worldphoto.org/about-the-sony-world-photography-awards/) - separate categories
 
-| First Header  | Second Header |
+| Name  | Participation Fees |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
