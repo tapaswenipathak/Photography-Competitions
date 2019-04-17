@@ -20,7 +20,7 @@ Competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome,
 | [monoawards](https://monoawards.com/) | EARLY DEADLINE: Professional: 20 USD/Single Entry, Amateur: 15 USD/Single Entry |
 | | FINAL DEADLINE: Professional: 25 USD/Single Entry, Amateur: 20 USD/Single Entry |
 | [monovisions](https://monovisionsawards.com/) | SERIES 30$ / SINGLE 25$ |
-| [portraitawards](http://portraitphotoawards.net/) | No fee for members |
+| [portraitawards](http://portraitphotoawards.net/) | No entry fee for members |
 | [portraitawards](https://portraitawards.childphotocompetition.com/) | Single File Submission - 10 EUR, Package of 3 files - 20 EUR, Package of 5 files - 30 EUR |
 | [pixcontests](https://pixcontests.com/chromatic) | Professional: $20 / Single Entry, Amateur: $15 / Single Entry |
 | [shoottheframe](https://shoottheframe.com/) | 1 image – $10, 3 images – $15, 7 images – $19. |
