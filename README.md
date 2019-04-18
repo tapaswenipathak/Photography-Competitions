@@ -4,11 +4,14 @@ Photography-Competitions
 competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome, portraits, street)
 
 - [Alexiafoundation](https://www.alexiafoundation.org/grants)
+- [canon](https://global.canon/en/newcosmos)
+- [canon-photo-contest](https://photocontestinformation.com/category/canon-photo-contest/)
 - [chromaticawards](https://chromaticawards.com/)
 - [colorawards](https://www.colorawards.com/)
 - [emergingphotographyawards](http://www.emergingphotographyawards.com/)
 - [facesphotocontest](https://www.facesphotocontest.com/)
 - [fineartphotoawards](https://fineartphotoawards.com/)
+- [indiaphotographyawards](https://www.indiaphotographyawards.in/)
 - [internationalfineartphoto](http://internationalfineartphoto.org/)
 - [IAFORphotoawards](https://iaforphotoaward.org/)
 - [macro](https://macro.competition.photography/en/)
@@ -21,6 +24,7 @@ competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome,
 - [sinwp](http://sinwp.com/flora/)
 - [streetphotoawards](https://www.streetphotoawards.art/)
 - [thezebraaards](https://thezebraawards.com/)
+- [womenphotograph](https://www.womenphotograph.com)
 - [worldphoto](http://www.worldphoto.org/about-the-sony-world-photography-awards/) - separate categories
 
 
