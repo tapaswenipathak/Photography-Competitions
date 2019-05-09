@@ -26,5 +26,6 @@ competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome,
 - [thezebraaards](https://thezebraawards.com/)
 - [womenphotograph](https://www.womenphotograph.com)
 - [worldphoto](http://www.worldphoto.org/about-the-sony-world-photography-awards/) - separate categories
+- [CERN Photowalk](https://photowalk2018.web.cern.ch/)
 
 
