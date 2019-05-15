@@ -27,5 +27,8 @@ competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome,
 - [womenphotograph](https://www.womenphotograph.com)
 - [worldphoto](http://www.worldphoto.org/about-the-sony-world-photography-awards/) - separate categories
 - [CERN Photowalk](https://photowalk2018.web.cern.ch/)
-
+- [International photography Awards](https://www.photoawards.com/)
+- [maltaphotoaward](https://www.maltaphotoaward.com/)
+- [annualphotoawards](https://annualphotoawards.com/)
+- [redbullillume sony](http://www.redbullillume.com/)
 
