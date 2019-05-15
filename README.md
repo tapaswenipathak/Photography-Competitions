@@ -36,5 +36,6 @@ Photo-Walks
 -------------------------
 
 photo walks (chromatic, documentary, fine art, flora, macro, monochrome, portraits, street)
+===========
 
 - [Photowalk by Himanshu Joshi and Sanjeev Verma](https://www.eventshigh.com/detail/delhi/510316d27e02f269b560a3af6f40231e-portrait-photowalk?src=ecbox)
