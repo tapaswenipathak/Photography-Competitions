@@ -32,6 +32,7 @@ competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome,
 - [annualphotoawards](https://annualphotoawards.com/)
 - [redbullillume sony](http://www.redbullillume.com/)
 - [iPhone Photography Awards](https://www.ippawards.com/)
+- [ND awards](https://ndawards.net/)
 
 Photo-Walks
 -------------------------
