@@ -1,5 +1,4 @@
-Photography-Competitions
--------------------------
+## Photography-Competitions
 
 competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome, portraits, street)
 
@@ -33,10 +32,10 @@ competitions/grants (chromatic, documentary, fine art, flora, macro, monochrome,
 - [redbullillume sony](http://www.redbullillume.com/)
 - [iPhone Photography Awards](https://www.ippawards.com/)
 - [ND awards](https://ndawards.net/)
+- [Nikon small world contest](https://nikonsmallworld.magnet.fsu.edu/small-world/)
 - [Photocrowd](https://www.photocrowd.com/photo-competitions/)
 
-Photo-Walks
--------------------------
+## Photo-Walks
 
 photo walks (chromatic, documentary, fine art, flora, macro, monochrome, portraits, street)
 
